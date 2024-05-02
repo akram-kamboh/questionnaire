@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-Installation
+## Installation
 - execute command to create tables -> php artisan migrate
 - execute command to populate data into questions & answers table -> php artisan db:seed --class=QuestionAnswers
 
