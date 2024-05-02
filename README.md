@@ -9,7 +9,8 @@
 
 ## Installation
 - execute command to create tables -> php artisan migrate
-- execute command to populate data into questions & answers table -> php artisan db:seed --class=QuestionAnswers
+- execute command to populate data into questions & answers table
+  <code>php artisan db:seed --class=QuestionAnswers</code>
 
 ## About Laravel
 
