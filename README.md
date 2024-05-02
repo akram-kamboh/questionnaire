@@ -10,6 +10,8 @@
 ## Installation
 - execute command to create tables -> <code>php artisan migrate</code>
 - execute command to populate data into questions & answers table -> <code>php artisan db:seed --class=QuestionAnswers</code>
+- change in default .env file -> <code>APP_URL=http://localhost:8000</code>
+- run application -> <code>php artisan serve</code>
 
 ## About Laravel
 
